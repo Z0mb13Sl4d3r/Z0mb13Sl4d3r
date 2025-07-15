@@ -1,4 +1,10 @@
-## Hi there 👋
+## Greetings 😊
+
+📖My name is Lehlogonolo, I am (as of writting this) a first year undergraduate at University of Cape Town
+- 🌱 I’m currently studing a BSc in Computer Science & Computer Engineering
+- 🔭 I’m currently working on learning Python and Java (first year)
+- 📫 How to reach me: tshleh009@myuct.ac.za (Outlook)
+
 
 <!--
 **Z0mb13Sl4d3r/Z0mb13Sl4d3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
